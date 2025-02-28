@@ -1,1 +1,1 @@
-https://suitedgalaxy.github.io/hello-wasm
+Page: https://suitedgalaxy.github.io/hello-wasm
